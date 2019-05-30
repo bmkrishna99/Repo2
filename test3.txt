@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FE5F-3E03
+
+ Directory of C:\Users\U0172087\Desktop\MyGitProject
+
+05/30/2019  05:19 PM    <DIR>          .
+05/30/2019  05:19 PM    <DIR>          ..
+05/29/2019  05:24 PM               410 index.html
+05/29/2019  05:24 PM                16 test1.txt
+05/30/2019  05:12 PM               460 test2.txt
+05/30/2019  05:19 PM                 0 test3.txt
+               4 File(s)            886 bytes
+               2 Dir(s)  37,952,245,760 bytes free
