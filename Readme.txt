@@ -1,4 +1,4 @@
 Java 1.8
 MySQL 5.6
 Tomcat 7.0.32
-Nginx x.y.z
+Nginx x.y.z ---> Nginx 1.3.2
